@@ -1,0 +1,39 @@
+@import "config";
+
+// BASIC RESETS
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: $cusprimary-color;
+    overflow-x: hidden;
+}
+
+.showcase-main {
+    height: 100vh;
+    padding: 0 3rem 0 3rem;
+    h1 {
+        color: $cusprimary-color;
+    }
+}
+
+.bd-navbar {
+    width: 100%;
+    background-color: #563d7c;
+    img {
+        height: 30px;
+        width: 30px;
+        margin-right: 10px;
+    }
+}
+
+.cusbg-color {
+    background-color: $custext-color;
+}
