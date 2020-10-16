@@ -1,7 +1,7 @@
-# Bootstrap 4 Boilerplate
+# Bootstrap 4 Boilerplate - Jshop
 
 This is a simple Bootstrap template with responsive Navbar.
-This for educational use.
+This is to showcase our sample of works on printing services
 
 ## Getting Started
 
